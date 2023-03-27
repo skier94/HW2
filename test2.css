@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #020A18;
+}
+
+.header {
+    background-color: #08101D;
+}
+
+.container {
+    max-width: 1146px;
+    margin: 0 auto;
+}
+
+.header-link {
+    text-decoration: none;
+    padding: 40px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #fff;
+}
+
+.header-link:hover {
+    color: #3A68B8;
+}
+
+.header-nav {
+    display: flex;
+    justify-content: center;
+}
+
+.main-box {
+    margin-top: 160px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-subtitle {
+    color: #09101E;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.main-title {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 55px;
+    line-height: 130%;
+    color: #fff;
+    margin-bottom: 40px;
+}
+
+.main-left {
+    max-width: 604px;
+}
+
+.main-dsc {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    color: #878b91;
+    margin-bottom: 50px;
+}
+
+.button-link {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #fff;
+    padding: 15px 30px;
+    background: #3A68B8;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 20px;
+    border: 1px solid transparent;
+}
+
+.button-link:last-of-type {
+    margin-right: 0;
+}
+
+.button-link:hover {
+    color: #3A68B8;
+    background-color: transparent;
+    border: 1px solid #3A68B8;
+}
+
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    margin-top: 200px;
+}
+
+.main2-box {
+    margin-top: 160px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main2-title {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 130%;
+    color: #fff;
+    margin-bottom: 40px;
+}
+
+.main2-right {
+    max-width: 484px;
+}
+
+.main2-dsc {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 160%;
+    color: #868A91;
+    margin-bottom: 65px;
+}
+
+.button1 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #fff;
+    padding: 15px 30px;
+    background: #3A68B8;
+    border-radius: 5px;
+    text-decoration: none;
+}
